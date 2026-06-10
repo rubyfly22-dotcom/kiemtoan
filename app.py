@@ -9,7 +9,7 @@ import plotly.graph_objects as go
 
 # 1. Cấu hình trang Streamlit
 st.set_page_config(
-    page_title="Hệ thống Phát hiện Giao dịch Bất thường",
+    page_title="Hệ thống Phát hiện Giao dịch Bất thường trong kiểm toán nội bộ",
     page_icon="🕵️‍♂️",
     layout="wide",
     initial_sidebar_state="expanded"
